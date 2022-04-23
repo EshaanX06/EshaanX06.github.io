@@ -1,4 +1,4 @@
-# NotEshaanX06.github.io
+# EshaanX06.github.io
 Personal Site.
 
-https://NotEshaanX06.github.io
+https://EshaanX06.github.io
